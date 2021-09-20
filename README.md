@@ -1,5 +1,4 @@
-# Grover
-Casino Mobile Game App Prize Mechanic
+# Casino Mobile Game App Prize Mechanic
 A common bonus round in many slot/casino styled games is a Pick Bonus. This type of “mini-
 game” allows the player to pick from a finite number of objects that will each have the
 possibility of awarding a varying amount of money. The player continues to pick until a
